@@ -1,0 +1,6 @@
+Result google.com => [172.217.194.139]
+Result domain.com => [13.228.112.135]
+Result google.com => [172.217.194.113]
+Result domain.com => [13.228.112.135]
+Result google.com => [172.217.194.113]
+Result domain.com => [13.228.112.135]
